@@ -1,0 +1,1 @@
+Text to speech (TTS) engine takes text as input and produces speech in a particular language. TTS engine developed by us is based on concatenative speech synthesis method and uses polyphones as units. The database used consists of about 6000 V, CV, VCV, VCCV, VCCCV and VC (V:vowel, C:consonant) units.
